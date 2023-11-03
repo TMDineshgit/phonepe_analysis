@@ -1,4 +1,4 @@
-About:
+**About:**
 1. Data extraction: Clone the Github using scripting to fetch the data from the
 Phonepe pulse Github repository and store it in a suitable format such as CSV
 or JSON.
@@ -22,10 +22,10 @@ the dataframe to update the dashboard dynamically.
 the solution thoroughly and deploy the dashboard publicly, making it
 accessible to users.
 
-Prerequisites:
+**Prerequisites:**
 python, streamlit, mysql, jupyter notebook
 
-Installation:
+**Installation:**
 pip install pandas
 pip install streamlit
 pip install mysql.connector
@@ -33,5 +33,5 @@ pip install plotly
 pip install os
 pip install gitpython
 
-Get Statred.
+**Get Statred.**
 1. streamlit run [filename.py]
